@@ -1,5 +1,5 @@
 source_file = "demo.txt"
-final_file = "result.txt"
+final_file = "result.txtt"
 favorite_list = [
     "广东珠江",
     "开平综合",
@@ -20,5 +20,5 @@ default_page_num = 4
 urls_limit = 15
 response_time_weight = 0.5
 resolution_weight = 0.5
-recent_days = 30
-ipv_type = "ipv4"
+recent_days = 3
+ipv_type = "all"
